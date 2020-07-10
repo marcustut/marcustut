@@ -1,3 +1,5 @@
+<p style="text-align: center;">
+
 ### Hi there 👋
 
 - 🔭 I’m currently working on **Web Dev & Backend**
@@ -12,3 +14,4 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+</p>
