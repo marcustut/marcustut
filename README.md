@@ -15,5 +15,5 @@
 </p>
 
 [![marcustut's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcustut&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
-[![marcustut's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcustut&langs_count=10&hide=html,css,plsql,jupyter%20notebook&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![marcustut's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcustut&langs_count=10&hide=html,css,python,plsql,jupyter%20notebook&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 [![marcustut's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=marcustut&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
