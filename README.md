@@ -2,8 +2,8 @@
 
 <p align="center"><i>👇A little bit about myself👇</i></p>
 
-<p align="center">🔭 I’m currently working on <strong>Backend & Web Dev</strong></p>
-<p align="center">🌱 I’m currently learning <strong>WebAssembly, Data Structures & Algorithms, Backend</strong></p>
+<p align="center">🔭 I’m currently working on <strong>Blockchain & Full-Stack</strong></p>
+<p align="center">🌱 I’m currently learning <strong>Solidity, Data Structures & Algorithms, Backend</strong></p>
 <p align="center">📫 How to reach me: <strong>WhatsApp/Instagram</strong></p>
 <p align="center">💭 My dreams: <strong>Work at Google & Build a Tech Startup</strong></p>
 <!--
