@@ -2,19 +2,6 @@
 
 <p align="center"><i>👇A little bit about myself👇</i></p>
 
-<p align="center">🔭 I’m currently working on <strong>Blockchain & Full-Stack</strong></p>
-<p align="center">🌱 I’m currently learning <strong>Rust, Solidity, Backend</strong></p>
+<p align="center">🔭 I’m currently working in a local <strong>Quantitative Trading Firm</strong></p>
 <p align="center">📫 How to reach me: <strong>WhatsApp/Instagram</strong></p>
-<p align="center">💭 My dreams: <strong>Work at Google & Build a Tech Startup</strong></p>
-<!--
-- 👯 I’m looking to collaborate on ...
-- 💬 Ask me about ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 </p>
-
-[![marcustut's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcustut&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
-[![marcustut's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcustut&langs_count=10&hide=html,css,python,javascript,plsql,jupyter%20notebook&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
-[![marcustut's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=marcustut&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
-
